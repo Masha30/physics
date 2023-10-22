@@ -4,8 +4,8 @@
   }
   .menu-main{
     display: inline-block;
-    height: 100px;
-    width: 20px;
+    height: auto;
+    width: auto;
   }
   .a{
     display: inline-block;
@@ -14,23 +14,29 @@
   @media screen and (max-width: 998px){
     .menu-main{
       display: inline-block;
+      height: auto;
+      width: auto;
     }
   }
   @media screen and (max-width: 768px){
     .menu-main{
       display: inline-block;
+      height: auto;
+      width: auto;
     }
   }
   @media screen and (max-width: 425px){
-    .card-body{
+    .menu-main{
       display: inline-block;
-      height: 100px;
-      width: 20px;
+      height: auto;
+      width: auto;
     }
   }
   @media screen and (max-width: 320px){
     .menu-main{
       display: inline-block;
+      height: auto;
+      width: auto;
     }
     .card{
       height: max-content;
