@@ -5,7 +5,7 @@
     max-width: 10%;
   }
     p{
-      padding: 30px;
+      padding: 10px;
     }
 .menu-main{
   display: inline-block;
@@ -22,7 +22,7 @@
     display: inline-block;
   }
   p{
-    padding: 30px;
+    padding: 10px;
   }
 }
 @media screen and (max-width: 768px){
@@ -33,7 +33,7 @@
     display: inline-block;
   }
   p{
-    padding: 30px;
+    padding: 10px;
   }
 }
 @media screen and (max-width: 425px){
@@ -41,7 +41,7 @@
     display: inline-block;
   }
   p{
-    padding: 30px;
+    padding: 10px;
   }
   a{
     display: inline-block;
@@ -55,7 +55,7 @@
     display: inline-block;
   }
   p{
-    padding: 30px;
+    padding: 10px;
   }
 }
 
