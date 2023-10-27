@@ -5,21 +5,35 @@
     max-width: 10%;
   }
     p{
-      font-size: 1em;
-      line-height: 1.2rem;
+      padding: 30px;
     }
 .menu-main{
   display: inline-block;
 }
+  a{
+    display: inline-block;
+  }
 }
 @media screen and (max-width: 998px){
   .menu-main{
     display: inline-block;
   }
+  a{
+    display: inline-block;
+  }
+  p{
+    padding: 30px;
+  }
 }
 @media screen and (max-width: 768px){
   .menu-main{
     display: inline-block;
+  }
+  a{
+    display: inline-block;
+  }
+  p{
+    padding: 30px;
   }
 }
 @media screen and (max-width: 425px){
@@ -27,13 +41,21 @@
     display: inline-block;
   }
   p{
-    font-size: 1em;
-    line-height: 1.2rem;
+    padding: 30px;
+  }
+  a{
+    display: inline-block;
   }
 }
 @media screen and (max-width: 320px){
   .menu-main{
     display: inline-block;
+  }
+  a{
+    display: inline-block;
+  }
+  p{
+    padding: 30px;
   }
 }
 
