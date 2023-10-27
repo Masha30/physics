@@ -44,6 +44,16 @@
       text-align: center;
     }
   }
+  @media screen and (max-width: 375px){
+    .menu-main{
+      display: inline-block;
+      height: auto;
+      width: auto;
+    }
+    .card-title{
+      text-align: center;
+    }
+  }
   @media screen and (max-width: 320px){
     .menu-main{
       display: inline-block;
